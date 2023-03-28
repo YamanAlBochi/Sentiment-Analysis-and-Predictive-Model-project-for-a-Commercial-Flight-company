@@ -16,4 +16,4 @@ Task 2:
 
 - creating a classification model to predict customer buying behaviour.
 
--preparing a powerpoint representation to highlight our insights and analysis.
+- preparing a powerpoint representation to highlight our insights and analysis.
