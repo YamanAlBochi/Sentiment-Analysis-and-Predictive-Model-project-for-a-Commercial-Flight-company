@@ -7,7 +7,7 @@ Task 1:
 
 - analyzing customer reviews using sentimental analysis to sort positive and negative reviews.
 
-- preparing a powerpoint representation to highlight our insights and analysis.
+- preparing a powerpoint representation to highlight our insights and analysis
 
 
 ------------------------------------------------------------------------------------------------------------------------
