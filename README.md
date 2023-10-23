@@ -4,7 +4,7 @@
 Task 1:
 
 - applying webscraping in unstructured data......
-- 
+
 - analyzing customer reviews using sentimental analysis to sort positive and negative reviews.
 
 - preparing a powerpoint representation to highlight our insights and analysis.
